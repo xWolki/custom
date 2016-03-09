@@ -97,7 +97,7 @@
       opLink: null,
       rulesLink: null,
       themeLink: null,
-      fbLink: "/me facebuksom",
+      fbLink: "https://www.facebook.com/groups/1607726482889466/",
       youtubeLink: null,
       website: null,
       intervalMessages: [],
