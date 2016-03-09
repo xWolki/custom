@@ -41,7 +41,7 @@
         // Load the chat package again to account for any changes
         bot.loadChat();
 
-      
+    }     
 if (API.getUser().role > 2){
 	var ss_attr = {
 			control : [],
