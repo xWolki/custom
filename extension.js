@@ -204,7 +204,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: false,
       motdInterval: 5,
-      motd: "Temporary Message of the Day",
+      motd: "Menssagem temporaria do dia!",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
