@@ -220,7 +220,7 @@ if (API.getUser().role > 2){
 	}
 	
 	API.on(API.CHAT, bots);
-	API.sendChat('/me SimSimi e Ed ativados');
+	API.sendChat('Bots Ativados');
 }else{
 	API.chatLog('Ed Bot e SimSimi Bot somente podem ser ativados por coordenadores ou superior.', true);
 }
