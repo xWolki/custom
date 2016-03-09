@@ -97,7 +97,7 @@
       opLink: null,
       rulesLink: null,
       themeLink: null,
-      fbLink: null,
+      fbLink: "/me facebuksom",
       youtubeLink: null,
       website: null,
       intervalMessages: [],
