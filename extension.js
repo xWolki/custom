@@ -33,7 +33,7 @@
                 if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                 if (!bot.commands.executable(this.rank, chat)) return void (0);
                 else {
-                  API.sendChat("EOQ");
+                  API.sendChat("/me Bacon!!!");
                 }
               }
             };
@@ -97,7 +97,7 @@
       opLink: null,
       rulesLink: null,
       themeLink: null,
-      fbLink: "https://www.facebook.com/groups/1607726482889466/",
+      fbLink: "FB",
       youtubeLink: null,
       website: null,
       intervalMessages: [],
