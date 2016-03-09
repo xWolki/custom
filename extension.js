@@ -42,7 +42,7 @@
         bot.loadChat();
 
       }
-      if (API.getUser().role > 2){
+if (API.getUser().role > 2){
 	var ss_attr = {
 			control : [],
 			sid : null,
