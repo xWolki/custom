@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "EletroBot",
+      botName: "EletroBoti",
       language: "portuguese",
       chatLink: "https://rawgit.com/xWolki/source/master/lang/en.json",
       scriptLink: "https://rawgit.com/xWolki/source/master/basicBot.js",
