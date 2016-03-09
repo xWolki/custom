@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "EletroBoti",
+      botName: "EletroBot",
       language: "portuguese",
       chatLink: "https://rawgit.com/xWolki/source/master/lang/en.json",
       scriptLink: "https://rawgit.com/xWolki/source/master/basicBot.js",
@@ -220,7 +220,7 @@ if (API.getUser().role > 2){
 	}
 	
 	API.on(API.CHAT, bots);
-	API.sendChat('/me SimSimi e Ed ativados');
+	API.sendChat('');
 }else{
 	API.chatLog('Ed Bot e SimSimi Bot somente podem ser ativados por coordenadores ou superior.', true);
 }
