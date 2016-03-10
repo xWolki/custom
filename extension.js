@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "EletroBot",
       language: "portuguese",
-      chatLink: "https://rawgit.com/xWolki/source/master/lang/en.json",
+      chatLink: "https://rawgit.com/xWolki/source/master/lang/pt-BR.json",
       scriptLink: "https://rawgit.com/xWolki/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 20, // 1-200
